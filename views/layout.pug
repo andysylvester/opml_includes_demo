@@ -1,0 +1,78 @@
+doctype html
+html
+	head
+		title= title
+		link(rel='stylesheet', href='/stylesheets/style.css')
+		link(rel='stylesheet', href='/stylesheets/outlinebrowser.css')
+		link(rel='stylesheet', href='/stylesheets/css/font-awesome.min.css')
+		link(rel='stylesheet', href='/stylesheets/ubuntuFont.css')
+		script(src='/javascripts/bootstrap.min.js')
+		script(src='/javascripts/jquery_1.9.1.min.js')
+		script(src='/javascripts/ecOutline.js')
+		style(type="text/css").
+			body {
+				font-family: "Ubuntu";
+			font-size: 18px;
+			background-color: whitesmoke;
+			}
+			.divTopPageMessage {
+				margin-top: 45px;
+			}
+			.divPageBody {
+				width: 60%;
+				margin-top: 45px;
+				margin-left: auto;
+				margin-right: auto;
+				border: 1px solid silver;
+			}
+			.divOutlineContainer {
+				margin-left: 50px;
+				margin-right: 25px;
+				margin-top: 10px;
+				margin-bottom: 35px;
+			}
+			.divOutlineTitle {
+				font-size: 52px;
+				font-weight: bold;
+				line-height: 110%;
+			}
+			.divOutlineDescription {
+				font-size: 26px;
+				font-weight: bold;
+				line-height: 110%;
+			}
+			.divOutlineDisplayer {
+				font-family: "Georgia";
+				font-size: 24px;
+				line-height: 140%;
+				margin-left: -25px;
+				margin-top: 1em;
+			}
+			.divOutlineHead {
+				display: none;
+			}
+			.divRenderedOutline .divOutlineText {
+				line-height: 145%;
+			}
+			@media only screen 
+			and (min-device-width : 320px) 
+			and (max-device-width : 480px) {
+			.divPageBody {
+				width: 90%;
+				border: none;
+				margin-left: auto;
+				margin-right: auto;
+				padding: 5px;
+				background-color: inherit;
+				margin-top: 0px;
+				margin-bottom: 300px;
+			}
+			.divOutlineTitle {
+				background-color: inherit;
+			}
+			.divOutlineDisplayer {
+				width: 90%;
+				margin-left: 5%;
+			}
+	body
+		block content

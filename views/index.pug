@@ -1,0 +1,18 @@
+extends layout
+
+block content
+
+  p Welcome to the OPML Includes Test App
+  p
+  P This app demonstrates the includes feature of the <a href="https://github.com/scripting/opmlPackage">opmlPackage</a> NPM package by <a href="http://scripting.com/">Dave Winer</a>. It also includes code from the <a href="https://github.com/scripting/outlineBrowser">outlineBrowser</a> toolkit, also by Dave Winer.
+  p
+  p This example shows four different <a href="http://opml.org/">OPML</a> files which have been brought into the app through the use of a single OPML containing links to the four OPML files by using the includes feature.
+  p
+  p I am seeking feedback/input from users on how to approach developing apps for this capability. One idea is to have multiple directories maintained by individuals which can be brought together.
+  p 
+  p If you have thoughts/ideas, send them to me at sylvester.andy@gmail.com  
+  p
+  .divPageBody
+     .divOutlineContainer
+        .divOutlineDisplayer
+           p  !{test01}

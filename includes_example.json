@@ -1,0 +1,475 @@
+{
+    "opml": {
+        "head": {
+            "title": "examples/includes/includes.opml",
+            "dateModified": "Wed, 11 May 2022 21:11:25 GMT",
+            "expansionState": "",
+            "vertScrollState": "1",
+            "windowTop": "300",
+            "windowLeft": "700",
+            "windowBottom": "900",
+            "windowRight": "1500",
+            "generator": "opmlPackage v0.4.24"
+        },
+        "body": {
+            "subs": [
+                {
+                    "created": "Wed, 11 May 2022 21:02:19 GMT",
+                    "name": "podcasts",
+                    "text": "My Favorite Podcasts",
+                    "type": "include",
+                    "url": "http://drummer.scripting.com/AndySylvester99/FavoritePodcasts.opml",
+                    "subs": [
+                        {
+                            "text": "Here is a list of podcasts I regularly listen to:",
+                            "created": "Mon, 27 Jun 2022 02:30:04 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://scripting.com/rss.xml\">Scripting News</a> - Dave Winer, creator of RSS and podcasting, always worth a listen",
+                            "created": "Mon, 27 Jun 2022 02:30:18 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://feeds.wnyc.org/bl-daily-politics-podcast\">Brian Lehrer Politics Podcast</a> - Excerpts from his daily radio show \"The Brian Lehrer Show\" on WNYC",
+                            "created": "Mon, 27 Jun 2022 02:30:21 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://radioopensource.org/feed\">Open Source</a> - Christopher Lydon - eclectic topics, current affairs, the arts - very broad",
+                            "created": "Mon, 27 Jun 2022 02:30:37 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://dianerehm.org/rss/npr/dr_podcast.xml\">Diane Rehm On My Mind</a> - Interviews on current affairs",
+                            "created": "Mon, 27 Jun 2022 02:30:42 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://feeds.npr.org/381444908/podcast.xml\">Fresh Air</a> - Terry Gross at WHYY/Philadelphia",
+                            "created": "Mon, 27 Jun 2022 02:31:41 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://thinkingabouttoolsforthought.com/feed/\">Thinking About Tools for Thought</a> - Andy Sylvester interviews users of tools in the \"Tools for Thought\" space",
+                            "created": "Mon, 27 Jun 2022 02:31:43 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://feeds.simplecast.com/A7fI4ltj\">Remarkable People</a> - Guy Kawasaki interviews",
+                            "created": "Mon, 27 Jun 2022 02:31:56 GMT"
+                        },
+                        {
+                            "text": "<a href=\"http://feed.thisamericanlife.org/talpodcast\">This American Life</a> - The seminal story podcast ",
+                            "created": "Mon, 27 Jun 2022 02:32:53 GMT"
+                        }
+                    ]
+                },
+                {
+                    "created": "Wed, 11 May 2022 21:03:38 GMT",
+                    "name": "recipes",
+                    "text": "Mexican Recipes",
+                    "type": "include",
+                    "url": "http://drummer.scripting.com/AndySylvester99/MexicanRecipes.opml",
+                    "subs": [
+                        {
+                            "text": "This is a collection of best Mexican recipes - enjoy!",
+                            "created": "Mon, 27 Jun 2022 00:25:12 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://gypsyplate.com/the-best-mexican-recipes/\">GypsyPlate.com</a> - The 40 best Mexican recipes! Starts with Barbacoa Style Pork, followed by Fajitas, then Chili Lime Shrimp Tacos and 37 more recipes - yum!",
+                            "created": "Mon, 27 Jun 2022 00:25:41 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.tasteofhome.com/collection/mexican-foods-take/\">TasteOfHome.com</a> - 65 recipes for Authentic Mexican Food. Includes Barbacoa, Grilled Onions and Skirt Steak Tacos, Conchas, and much more! ",
+                            "created": "Mon, 27 Jun 2022 00:27:47 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.chefspencil.com/most-popular-mexican-foods/\">ChefsPencil.com</a> - 30 most popular Mexican food recipes",
+                            "created": "Mon, 27 Jun 2022 00:39:59 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.foodnetwork.com/recipes/packages/global-flavors/weeknights/top-mexican-food-recipes\">FoodNetwork.com</a> - 60 Best Mexican Food Recipes",
+                            "created": "Mon, 27 Jun 2022 00:41:32 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.thepioneerwoman.com/food-cooking/meals-menus/g39195112/mexican-recipes/\">ThePioneerWoman.com</a> - 15 best Mexican Food Recipes",
+                            "created": "Mon, 27 Jun 2022 00:42:16 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.feastingathome.com/healthy-delicious-cinco-de-mayo-recipes/\">FeastingAtHome.com</a> - 35 recipes for Cinco de Mayo",
+                            "created": "Mon, 27 Jun 2022 00:43:26 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.bbcgoodfood.com/recipes/collection/mexican-recipes\">BBCGoodFood,com</a> - 61 recipes for Mexican food",
+                            "created": "Mon, 27 Jun 2022 00:43:55 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.allrecipes.com/gallery/best-authentic-mexican-recipes/\">AllRecipes.com</a> - 22 recipes, starting with Chorizo...mmm...",
+                            "created": "Mon, 27 Jun 2022 00:45:16 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.mexicoinmykitchen.com/recipes/\">MexicoInMyKitchen.com</a> - Authentic recipes from Mely Martinez ",
+                            "created": "Mon, 27 Jun 2022 00:53:14 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.saveur.com/best-mexican-recipes/\">Saveur.com</a> - Our best Mexican-inspired recipes",
+                            "created": "Mon, 27 Jun 2022 00:54:49 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://www.lacocinadeleslie.com/p/recipe-index.html\">LaCocinaDeLeslie.com</a> - Index of Leslie Limon's recipes (over 100!)",
+                            "created": "Mon, 27 Jun 2022 00:55:32 GMT"
+                        },
+                        {
+                            "text": "<a href=\"https://hispanickitchen.com/author/leslie-limon/\">HispanicKitchen.com</a> - More recipes from Leslie Limon",
+                            "created": "Mon, 27 Jun 2022 00:57:09 GMT"
+                        }
+                    ]
+                },
+                {
+                    "created": "Wed, 11 May 2022 21:03:42 GMT",
+                    "name": "bloomingtonIA",
+                    "text": "Activities in Bloomington, Indiana",
+                    "type": "include",
+                    "url": "http://drummer.scripting.com/KenSmith/BloomingtonIndiana.opml",
+                    "subs": [
+                        {
+                            "text": "<b>Things to do in Bloomington, Indiana</b>",
+                            "created": "Sun, 22 May 2022 20:52:58 GMT"
+                        },
+                        {
+                            "text": "",
+                            "created": "Sun, 22 May 2022 20:53:12 GMT"
+                        },
+                        {
+                            "text": "<b>ON SUNDAY MORNING!</b>",
+                            "created": "Mon, 23 May 2022 14:46:02 GMT",
+                            "subs": [
+                                {
+                                    "text": "Before leaving town on Sunday, G & J will hang out from 9:00 to 10:00 am at Bloomington Bagel,  113 N Dunn St, about a block from the Sample Gate at the edge of the IU campus. <i>Feel free to drop by to say hello or have your breakfast with them there.</i> ",
+                                    "created": "Mon, 23 May 2022 14:47:30 GMT"
+                                },
+                                {
+                                    "text": "",
+                                    "created": "Fri, 27 May 2022 11:35:31 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "<b>Bells, bells, bells: SATURDAY AT NOON</b>",
+                            "created": "Fri, 27 May 2022 11:35:35 GMT",
+                            "subs": [
+                                {
+                                    "text": "There's a free concert at the <a href=\"https://www.designboom.com/architecture/indiana-university-arthur-metz-bicentennial-grand-carillon-11-23-2020/\">carillon bell tower</a> located on the lawn behind the university's art museum. There are 65 bells in the 128-foot tall tower.",
+                                    "created": "Fri, 27 May 2022 11:36:03 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "",
+                            "created": "Mon, 23 May 2022 14:47:08 GMT"
+                        },
+                        {
+                            "text": "Lots of the links on here come from the <a href=\"https://www.visitbloomington.com/\">Visit Bloomington</a> site.",
+                            "created": "Sun, 22 May 2022 20:53:13 GMT"
+                        },
+                        {
+                            "text": "Basic map <a href=\"https://imu.indiana.edu/maps-parking/index.html\">here</a>.",
+                            "created": "Mon, 23 May 2022 16:28:05 GMT"
+                        },
+                        {
+                            "text": "",
+                            "created": "Sun, 22 May 2022 20:56:51 GMT"
+                        },
+                        {
+                            "text": "<b>Many food opportunities, including:</b>",
+                            "created": "Sun, 22 May 2022 22:21:38 GMT",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/things-to-do/downtown/farmers-market/#bloomington-community-farmers-market\">Farmer's Market</a> on Saturday, 8 am to 1 pm. Next to the B-Line walk, below. ",
+                                    "created": "Sun, 22 May 2022 20:56:51 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/things-to-do/downtown/food-truck-friday/\">Food Truck Friday</a>, 11 am to 9 pm.",
+                                    "created": "Sun, 22 May 2022 21:00:18 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/things-to-do/downtown/downtown-food-and-drink/\">Cute shops, restaurants, coffee shops</a> on the downtown Courthouse Square and on Sample Street up to the IU campus along Sample Street.",
+                                    "created": "Sun, 22 May 2022 21:05:38 GMT"
+                                },
+                                {
+                                    "text": "International restaurants on <a href=\"https://www.visitbloomington.com/blog/post/fourth-street-restaurant-round-up/\">Fourth Street</a>, which runs parallel to Sample Street, listed above, near the University.",
+                                    "created": "Sun, 22 May 2022 21:03:34 GMT"
+                                },
+                                {
+                                    "text": "Deli at <a href=\"https://www.visitbloomington.com/listing/bloomingfoods-market-%26-deli-near-west-side/1714/\">BloomingFoods Co-op</a> not far from the Courthouse.",
+                                    "created": "Sun, 22 May 2022 21:10:36 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/listing/the-owlery-restaurant/1401/\">The Owlery</a> vegetarian and vegan restaurant on the Courthouse Square, where J & G worked.",
+                                    "created": "Sun, 22 May 2022 21:12:17 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/listing/farmbloomington/1439/\">FarmBloomington</a>, a chef-style, locally sourced favorite near campus.",
+                                    "created": "Sun, 22 May 2022 21:28:35 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/listing/the-runcible-spoon/1326/\">The Runcible Spoon</a>, a favorite breakfast/diner-style place near campus.",
+                                    "created": "Sun, 22 May 2022 21:49:06 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.hartzellsicecream.com/\">Hartzell's Ice Cream</a>, 107 N. Dunn near campus, where there's often a line.",
+                                    "created": "Mon, 23 May 2022 16:29:55 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "",
+                            "created": "Sun, 22 May 2022 21:14:53 GMT"
+                        },
+                        {
+                            "text": "<b>Some walks</b>",
+                            "created": "Sun, 22 May 2022 22:20:59 GMT",
+                            "subs": [
+                                {
+                                    "text": "Walk around the shops of the Courthouse Square. Walk between the Square and campus via Sample Street.",
+                                    "created": "Sun, 22 May 2022 22:20:24 GMT"
+                                },
+                                {
+                                    "text": "Walk through woods (yes!) and campus at <a href=\"https://www.visitbloomington.com/things-to-do/indiana-university/\">Indiana University</a>, with <a href=\"https://www.visitbloomington.com/things-to-do/indiana-university/attractions/\">various attractions</a> and <a href=\"https://www.visitbloomington.com/blog/post/icons-of-indiana-university/\">icons</a>, starting, for example at the Sample Street Gates. Some <a href=\"https://healthy.iu.edu/doc/campus-programs-services/iub/walking-trails.pdf\">walks on campus (pdf)</a>.",
+                                    "created": "Sun, 22 May 2022 21:33:58 GMT"
+                                },
+                                {
+                                    "text": "Walk through the near-downtown area on the <a href=\"https://www.visitbloomington.com/listing/b-line-trail/888/\">B-Line Trail</a>.",
+                                    "created": "Sun, 22 May 2022 21:33:17 GMT"
+                                },
+                                {
+                                    "text": "Walk through the woods at nearby <a href=\"https://www.visitbloomington.com/things-to-do/outdoor-and-recreation/monroe-lake/#hiking-trail-running\">Lake Monroe</a>.",
+                                    "created": "Sun, 22 May 2022 21:33:40 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "",
+                            "created": "Sun, 22 May 2022 21:44:03 GMT"
+                        },
+                        {
+                            "text": "<b>Art opportunities</b>",
+                            "created": "Sun, 22 May 2022 22:22:42 GMT",
+                            "subs": [
+                                {
+                                    "text": "Galleries and shops here and there.",
+                                    "created": "Sun, 22 May 2022 22:23:10 GMT"
+                                },
+                                {
+                                    "text": "Public sculpture on campus: Ernie Pyle near IU's Sample Street Gates, <a href=\"https://www.visitbloomington.com/listing/hoagy-carmichael-landmark-sculpture/1126/\">Hoagy Carmichael</a> near the art museum. Bring your laptop and write with the war correspondent. Sit at the piano bench with the composer. In both cases, have your picture taken sitting as part of the sculpture.",
+                                    "created": "Sun, 22 May 2022 21:44:03 GMT"
+                                },
+                                {
+                                    "text": "A century ago the wooded rolling hills of southern Indiana attracted a major movement of painters, and many works by these artists are on view in the hallways and meeting rooms of the Indiana Memorial Union, which is on 7th Street. There is parking on the hotel end of the building in a pay lot, but likely cheaper or free on nearby streets.",
+                                    "created": "Mon, 23 May 2022 01:19:23 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.visitbloomington.com/listing/lilly-library/220/\">Lilly Library</a> is the university's major archive and rare book library. There are standing displays, including a Gutenberg Bible, and special exhibits. 9:30 to 5:00 on Friday, closes at 4:00 on Saturday.  <a href=\"https://libraries.indiana.edu/exhibitions\">Current exhibits</a> are at the Lilly, the nearby Wells Library, and online.",
+                                    "created": "Sun, 22 May 2022 21:58:09 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://artmuseum.indiana.edu/\">Eskenazi Museum of Art</a>, newly renovated, has many galleries, a cafe, and <a href=\"https://artmuseum.indiana.edu/exhibitions/current/index.html\">special shows</a> running right now too. Friday, 10:00 to 5:00 pm, Saturday, noon to 7:00 pm.",
+                                    "created": "Sun, 22 May 2022 21:34:18 GMT"
+                                },
+                                {
+                                    "text": "If you find yourself in the area of the football stadium and basketball arena, at the far end of campus, and you enjoy sports because you like the beauty and passion and skill of athletes, stop by <a href=\"https://iuhoosiers.com/news/2021/6/7/capital-indiana-university-dedicates-spirit-of-indiana-bronze-sculpture-in-miller-plaza.aspx\">Spirit of Indiana</a>, the larger than life Dora Natella sculpture of young athletes there. Dora teaches at the South Bend campus of IU.",
+                                    "created": "Tue, 24 May 2022 14:39:13 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "",
+                            "created": "Mon, 23 May 2022 01:31:00 GMT"
+                        },
+                        {
+                            "text": "Online link to this page <a href=\"http://drummer.this.how/KenSmith/BloomingtonIndiana.opml\">here</a>.",
+                            "created": "Mon, 23 May 2022 01:31:01 GMT"
+                        }
+                    ]
+                },
+                {
+                    "created": "Wed, 11 May 2022 21:03:42 GMT",
+                    "name": "oregonElections",
+                    "text": "Oregon Elections",
+                    "type": "include",
+                    "url": "http://drummer.scripting.com/PDXProtestNews/OregonElections.opml",
+                    "subs": [
+                        {
+                            "text": "Introduction",
+                            "created": "Wed, 01 Jun 2022 17:53:58 GMT",
+                            "subs": [
+                                {
+                                    "text": "This page will contain information and resources on elections in Oregon",
+                                    "created": "Sat, 04 Jun 2022 03:50:36 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "State-level links",
+                            "created": "Wed, 01 Jun 2022 17:54:05 GMT",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://sos.oregon.gov/Pages/index.aspx\">Secretary of State</a> - Statewide office that has responsibility for elections in the state of Oregon",
+                                    "created": "Wed, 01 Jun 2022 17:54:18 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://sos.oregon.gov/voting-elections/Pages/default.aspx\">SOS Elections Divsion</a> - Resides in the Office of the Oregon Secretary of State",
+                                    "created": "Wed, 01 Jun 2022 17:54:26 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://results.oregonvotes.gov/\">SOS Election Results</a> - Find out results for all races in the May 2022 primary",
+                                    "created": "Sat, 04 Jun 2022 19:41:56 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://sos.oregon.gov/elections/Documents/vbm_manual.pdf\">Vote By Mail Procedures Manual</a> - Guide for county clerks on conducting elections by mail (adopted by Oregon Administrative Rule No. 165-007-0030)",
+                                    "created": "Sat, 04 Jun 2022 20:15:41 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://sos.oregon.gov/elections/Documents/elec_law_summary.pdf\">Oregon Election Law Summary</a> - Published by the SOS Elections Division, summarizes Oregon law relating to elections",
+                                    "created": "Sat, 04 Jun 2022 20:16:33 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://sos.oregon.gov/Pages/protect-democracy.aspx\">Protect Our Democracy Agenda</a> - Proposals by SOS Shemia Fagan to address issues in Oregon elections (includes links to bills)",
+                                    "created": "Sat, 04 Jun 2022 20:20:35 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://medium.com/@ShemiaFagan/4-things-oregon-can-do-to-protect-our-democracy-from-attacks-on-voting-rights-d468795ab014\">Medium </a>- Article by Shemia Fagan on this topic",
+                                            "created": "Sat, 04 Jun 2022 20:21:10 GMT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "County-level links",
+                            "created": "Wed, 01 Jun 2022 17:54:35 GMT",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://www.co.marion.or.us/CO\">Marion County Clerk</a> - County elected official responsible for elections and other county records",
+                                    "created": "Wed, 01 Jun 2022 17:54:45 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.co.marion.or.us/CO/elections/Pages/default.aspx\">Marion County Elections</a> - Part of the Marion County Clerk's Office",
+                                    "created": "Wed, 01 Jun 2022 17:54:58 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://www.linkedin.com/in/connie-higgins-6b90267b\">Connie Higgins</a> - Elections Supervisor",
+                                            "created": "Sat, 04 Jun 2022 20:38:59 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "<a href=\"https://www.columbiacountyor.gov/departments/CountyClerk\">Columbia County Clerk</a> - County elected official responsible for elections and other county records",
+                                    "created": "Wed, 01 Jun 2022 17:54:45 GMT"
+                                },
+                                {
+                                    "text": "<a href=\"https://www.columbiacountyor.gov/departments/Elections\">Columbia County Elections</a> - Part of the Columbia County Clerk's Office",
+                                    "created": "Wed, 01 Jun 2022 17:54:58 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Interesting news on Oregon elections",
+                            "created": "Sat, 04 Jun 2022 04:11:00 GMT",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://hinessight.blogs.com/salempoliticalsnark/2022/06/medlock-now-leads-gwyn-by-two-votes-in-ward-4-council-race.html\">Brian Heins</a> - Salem City Council race separated by two votes, still counting",
+                                    "created": "Sat, 04 Jun 2022 04:11:12 GMT"
+                                },
+                                {
+                                    "text": "Clackamas County problems in counting votes",
+                                    "created": "Sat, 04 Jun 2022 23:57:09 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "<a href=\"https://www.youtube.com/watch?v=AOGTy95_Prw\">KGW-TV</a> - Overview of problem, vote count was supposed to be complete by June 3, but it is not done yet per the reporter",
+                                            "created": "Sat, 04 Jun 2022 23:57:24 GMT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Interesting questions about elections",
+                            "created": "Sat, 04 Jun 2022 19:23:45 GMT",
+                            "subs": [
+                                {
+                                    "text": "From the Brian Heins article, two votes separate the two candidates. Per another article referenced from Salem Reporter, County Clerk Bill Burgess said there were 74 ballots with signature issues (did not match file one, or ballot not signed), and that all votes had been contacted by mail if they wanted to correct them.",
+                                    "created": "Sat, 04 Jun 2022 19:23:53 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "How many ballots in the election had issues?",
+                                            "created": "Sat, 04 Jun 2022 19:39:19 GMT"
+                                        },
+                                        {
+                                            "text": "What other issues besides signature problems could cause a ballot to not be counted?",
+                                            "created": "Sat, 04 Jun 2022 19:39:36 GMT"
+                                        },
+                                        {
+                                            "text": "Are voters contacted when there is an issue if it is not a signature issue?",
+                                            "created": "Sat, 04 Jun 2022 19:40:02 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "How is the voter registration database managed?",
+                                    "created": "Sat, 04 Jun 2022 19:52:51 GMT"
+                                },
+                                {
+                                    "text": "How are voters eliminated from the voting rolls?",
+                                    "created": "Sat, 04 Jun 2022 19:53:05 GMT"
+                                },
+                                {
+                                    "text": "",
+                                    "created": "Sat, 04 Jun 2022 19:53:23 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Interesting links",
+                            "created": "Sat, 04 Jun 2022 19:53:29 GMT",
+                            "subs": [
+                                {
+                                    "text": "<a href=\"https://www.youtube.com/watch?v=8b61hM1HKm0\">Path of the Ballot</a> - Video on the printing, distribution, and processing of ballots in Wasco County, Oregon (2020 general election) (7 minutes)",
+                                    "created": "Sat, 04 Jun 2022 19:53:36 GMT"
+                                }
+                            ]
+                        },
+                        {
+                            "text": "Certifications",
+                            "created": "Sat, 04 Jun 2022 20:13:54 GMT",
+                            "subs": [
+                                {
+                                    "text": "Certified Elections/Registration Administrator (CERA)",
+                                    "created": "Sat, 04 Jun 2022 20:13:59 GMT",
+                                    "subs": [
+                                        {
+                                            "text": "The Election Center with Academic Instruction by Auburn University",
+                                            "created": "Sat, 04 Jun 2022 20:14:06 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Certified Elections Administrator (CEA)",
+                                    "subs": [
+                                        {
+                                            "text": "Oregon Association of County Clerks",
+                                            "created": "Sat, 04 Jun 2022 20:14:12 GMT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Certified Recording Administrator (CRA)",
+                                    "subs": [
+                                        {
+                                            "text": "Oregon Association of County Clerks",
+                                            "created": "Sat, 04 Jun 2022 20:14:14 GMT"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

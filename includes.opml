@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>OPML Include File Example</title>
+		<dateModified>Wed, 11 May 2022 21:11:25 GMT</dateModified>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>300</windowTop>
+		<windowLeft>700</windowLeft>
+		<windowBottom>900</windowBottom>
+		<windowRight>1500</windowRight>
+		</head>
+	<body text="examples/includes/includes.opml">
+		<outline created="Wed, 11 May 2022 21:02:19 GMT" name="podcasts" text="My Favorite Podcasts" type="include" url="http://drummer.scripting.com/AndySylvester99/FavoritePodcasts.opml"></outline>
+		<outline created="Wed, 11 May 2022 21:03:38 GMT" name="recipes" text="Mexican Recipes" type="include" url="http://drummer.scripting.com/AndySylvester99/MexicanRecipes.opml"></outline>
+		<outline created="Wed, 11 May 2022 21:03:42 GMT" name="bloomingtonIA" text="Activities in Bloomington, Indiana" type="include" url="http://drummer.scripting.com/KenSmith/BloomingtonIndiana.opml"></outline>
+		<outline created="Wed, 11 May 2022 21:03:42 GMT" name="oregonElections" text="Oregon Elections" type="include" url="http://drummer.scripting.com/PDXProtestNews/OregonElections.opml"></outline>
+    </body>
+</opml>
