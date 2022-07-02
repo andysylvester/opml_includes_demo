@@ -167,6 +167,24 @@ The styling of the app can certainly be improved, stylesheets are in /public/sty
 
 The app currently runs on port 3002, this can be changed by editing /bin/www.
 
+If you are running the app on a server, you can use the NPM package [forever](https://www.npmjs.com/package/forever) to keep the app running continuously. To install the package, type the following command in a terminal window on your server:
+
+   ```sh
+   sudo npm install forever -g
+   ```
+Once you have installed the forever package, use the following command to start the app:
+
+   ```sh
+   forever start ./bin/www
+   ```
+
+To stop the forever process, type the following in the app directory:
+
+   ```sh
+   forever stopall
+   ```
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
