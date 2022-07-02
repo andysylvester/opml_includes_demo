@@ -42,7 +42,7 @@ This is your README. READMEs are where you can communicate what your project is 
     <a href="https://github.com/andysylvester/opml_includes_demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/andysylvester/opml_includes_demo">View Demo</a>
+    <a href="http://fedwiki.andysylvester.com:3002/">View Demo</a>
     ·
     <a href="https://github.com/andysylvester/opml_includes_demo/issues">Report Bug</a>
     ·
@@ -82,8 +82,6 @@ This is your README. READMEs are where you can communicate what your project is 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
   <a href="ttps://github.com/andysylvester/opml_includes_demo">
     <img src="images/demoapp.png" alt="Demo app">
@@ -151,6 +149,8 @@ To start the app, enter the following command in a terminal window in the app fo
    ```
 
 The app will start on port 3002. If you are running the app locally, open "http://localhost:3002" in a web browser. You should see the app running as in the screenshot shown earlier on this page. If you are running the app on a server, open a tab in a web browser and enter the URL of the server with ":3002" at the end of the URL. Again, you should see the app running as in the screenshot shown earlier on this page.
+
+You can see the app running <a href="http://fedwiki.andysylvester.com:3002/">here</a>.
 
 ## Customizing The App
 
