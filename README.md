@@ -85,6 +85,11 @@ This is your README. READMEs are where you can communicate what your project is 
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+  <a href="ttps://github.com/andysylvester/opml_includes_demo">
+    <img src="images/demoapp.png" alt="Demo app">
+  </a>
+
+
 This app demonstrates the includes feature of the <a href="https://github.com/scripting/opmlPackage">opmlPackage</a> NPM package by <a href="http://scripting.com/">Dave Winer</a>. It also includes code from the <a href="https://github.com/scripting/outlineBrowser">outlineBrowser</a> toolkit, also by Dave Winer.
 
 This example shows four different <a href="http://opml.org/">OPML</a> files which have been brought into the app through the use of a single OPML containing links to the four OPML files by using the includes feature.
