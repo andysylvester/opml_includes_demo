@@ -33,9 +33,6 @@ This is your README. READMEs are where you can communicate what your project is 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/andysylvester/opml_includes_demo">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">OPML Includes Demo</h3>
 
@@ -92,8 +89,6 @@ This app demonstrates the includes feature of the <a href="https://github.com/sc
 
 This example shows four different <a href="http://opml.org/">OPML</a> files which have been brought into the app through the use of a single OPML containing links to the four OPML files by using the includes feature.
 
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
