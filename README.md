@@ -27,7 +27,7 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<br>
 <div align="center">
 
 <h3 align="center">OPML Includes Demo</h3>
@@ -150,7 +150,7 @@ You can see the app running <a href="http://fedwiki.andysylvester.com:3002/">her
 
 ## Customizing The App
 
-The includes.opml file in the repo can be edited to load different OPML files. You can edit includes.opml using a text editor or outliner like [Drummer](http://drummer.scripting.com/). A key requirement is that in each entry within includes.opml, the attribute "tyoe" must be set to "include". An example is as follows:
+The includes.opml file in the repo can be edited to load different OPML files. You can edit includes.opml using a text editor or an outliner like [Drummer](http://drummer.scripting.com/). A key requirement is that in each entry within includes.opml, the attribute "type" must be set to "include". An example is as follows:
 
    ```sh
    <outline created="Wed, 11 May 2022 21:03:42 GMT" name="oregonElections" text="Oregon Elections" type="include" url="http://drummer.scripting.com/PDXProtestNews/OregonElections.opml"></outline>
@@ -180,6 +180,7 @@ To stop the forever process, type the following in the app directory:
    forever stopall
    ```
 
+The file includes_example.json is a text file of the JSON representation of the included outlines. To display different information from the outlines, look at /routes/index.js to see how the HTML is generated. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
