@@ -37,10 +37,10 @@ This is your README. READMEs are where you can communicate what your project is 
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">OPML Includes Demo</h3>
 
   <p align="center">
-    project_description
+    View a demo of how to include multiple OPML files in a single file!
     <br />
     <a href="https://github.com/andysylvester/opml_includes_demo"><strong>Explore the docs »</strong></a>
     <br />
@@ -142,25 +142,30 @@ This will create a folder called opml_includes_demo
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Starting The App
 
 To start the app, enter the following command in a terminal window in the app folder:
 
-npm start
+   ```sh
+   npm start
+   ```
 
-The app will start on port 3002. If you are running the app locally, open "http://localhost:3002" in a web browser. You should see the app running as in the screenshot above. If you are running the app on a server, open a tab in a web browser and enter the URL of the server with ":3002" at the end of the URL. Again, you should see the app running as in the screenshot above.
+The app will start on port 3002. If you are running the app locally, open "http://localhost:3002" in a web browser. You should see the app running as in the screenshot shown earlier on this page. If you are running the app on a server, open a tab in a web browser and enter the URL of the server with ":3002" at the end of the URL. Again, you should see the app running as in the screenshot shown earlier on this page.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Customizing The App
 
-<!-- ROADMAP -->
-## Roadmap
+The includes.opml file in the repo can be edited to load different OPML files. You can edit includes.opml using a text editor or outliner like [Drummer](http://drummer.scripting.com/). A key requirement is that in each entry within includes.opml, the attribute "tyoe" must be set to "include". An example is as follows:
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+   ```sh
+   <outline created="Wed, 11 May 2022 21:03:42 GMT" name="oregonElections" text="Oregon Elections" type="include" url="http://drummer.scripting.com/PDXProtestNews/OregonElections.opml"></outline>
+   ```
+The text on the main page is in file /views/index.pug, and can be changed as you wish.
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+The main app is mostly an auto-generated [Express](https://expressjs.com/) application, so other Express features can be added.
+
+The styling of the app can certainly be improved, stylesheets are in /public/stylesheets.
+
+The app currently runs on port 3002, this can be changed by editing /bin/www.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -196,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@AndySylvester99](https://twitter.com/AndySylvester99) - sylvester.andy@gmail.com
+Andy Sylvester - [@AndySylvester99](https://twitter.com/AndySylvester99) - sylvester.andy@gmail.com
 
 Project Link: [https://github.com/andysylvester/opml_includes_demo](https://github.com/andysylvester/opml_includes_demo)
 
