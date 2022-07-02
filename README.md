@@ -1,7 +1,3 @@
-# Welcome to the OPML Includes Demo app!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
 <<div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
