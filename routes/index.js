@@ -21,7 +21,8 @@ fs.readFile ("includes.opml", function (err, opmltext) {
                 // Uncomment the following line to see the JSON object created from expanding the included OPML files
 				// console.log (JSON.stringify (theNewOutline, undefined, 4));
                 //
-				// For each included outline, generate HTML for the text from includes.opml for the outline, then generate HT<L for the outline itself 
+				// For each included outline, generate HTML for the text from includes.opml for the outline, then generate HTML for the outline itself 
+				mySecondTest = '';
 				for (var i = 0; i < theNewOutline.opml.body.subs.length; i++) {
 					mySecondTest = mySecondTest + '<div class="divOutlineTitle" id="idOutlineTitle">' + theNewOutline.opml.body.subs[i].text + '</div>'
 				    mySecondTest = mySecondTest + ob.renderOutlineBrowser (theNewOutline.opml.body.subs[i], false, "", "", true);
