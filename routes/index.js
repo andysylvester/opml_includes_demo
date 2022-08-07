@@ -22,6 +22,9 @@ fs.readFile ("includes.opml", function (err, opmltext) {
 				// console.log (JSON.stringify (theNewOutline, undefined, 4));
                 //
 				// For each included outline, generate HTML for the text from includes.opml for the outline, then generate HTML for the outline itself 
+
+				ob.collapseEverything (theNewOutline, 0);
+
 				mySecondTest = '';
 				for (var i = 0; i < theNewOutline.opml.body.subs.length; i++) {
 					mySecondTest = mySecondTest + '<div class="divOutlineTitle" id="idOutlineTitle">' + theNewOutline.opml.body.subs[i].text + '</div>'

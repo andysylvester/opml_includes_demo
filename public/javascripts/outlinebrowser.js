@@ -8,6 +8,7 @@
      applyExpansionState,
 	 ecOutline,
 	 riverGetPermalinkString,
+     collapseEverything,
 	 renderOutlineBrowser
     }
 
@@ -23,6 +24,39 @@ var outlineBrowserData = {
 	flProcessEmoji: true, //7/3/17 by DW
 	expandCollapseCallback: function (idnum) { //9/22/17 by DW
 		}
+	}
+
+function getBoolean (val) { //12/5/13 by DW
+	switch (typeof (val)) {
+		case "string":
+			if (val == "1") { //1/28/20 by DW
+				return (true);
+				}
+			if (val.toLowerCase () == "true") {
+				return (true);
+				}
+			break;
+		case "boolean":
+			return (val);
+		case "number":
+			if (val == 1) {
+				return (true);
+				}
+			break;
+		}
+	return (false);
+	}
+
+function collapseEverything (theOutline, belowLevel) {
+	function doCollapse (theNode, level) {
+		if (theNode.subs !== undefined) {
+			theNode.collapse = getBoolean (level > belowLevel);
+			theNode.subs.forEach (function (sub) {
+				doCollapse (sub, level + 1);
+				});
+			}
+		}
+	doCollapse (theOutline.opml.body, 0);
 	}
 
 function getExpansionState () {
